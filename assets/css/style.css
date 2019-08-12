@@ -1,0 +1,21 @@
+#name {
+  float: left;
+  background: #4aaaa5;
+  color: white;
+}
+
+header {
+  color: #ffffff;
+}
+
+body {
+  width: 960px;
+}
+
+a {
+  float: left;
+}
+
+section {
+  clear: both;
+}
